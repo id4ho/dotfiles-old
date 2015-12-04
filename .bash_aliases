@@ -1,0 +1,8 @@
+alias be='bundle exec'
+alias lm='ls -la'
+alias pg-start='pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start'
+alias pg-stop='pg_ctl -D /usr/local/var/postgres stop -s -m fast'
+alias sc='screencapture -s -c'
+alias subl='sublime'
+alias vi='/usr/local/Cellar/vim/7.4.488/bin/vim'
+alias vim='mvim'
